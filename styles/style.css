@@ -146,10 +146,10 @@ top blogs styles
      }
      .player, .blog, .course{
          flex-direction: column;
-     }
-     .courses{
+         
          
      }
+     
  }
 
  /* tablet devices */
